@@ -49,7 +49,7 @@ test:
 #
 production:
   adapter: postgresql
-  encoding: unisode
+  encoding: unicode
   pool: 5
   database: microposts_production
   username: microposts
